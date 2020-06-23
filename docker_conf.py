@@ -2,8 +2,7 @@ import docker
 
 def get_client():
     """
-    
-    return: client
+    return: client object
     """
 
     try:
